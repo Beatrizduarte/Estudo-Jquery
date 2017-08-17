@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Slabo+27px');
+#container{
+	font-family: 'Slabo 27px', serif;
+	padding-left: 200px;
+}
+h1{
+	border-bottom: 1px solid #000;
+	width: 200px;
+}
+label{
+	font-family: 'Slabo 27px', serif;
+	font-size: 12pt;
+
+}
+#treinamento{
+	width: 200px;
+	
+}
+#botao-enviar{
+
+}
+
+
