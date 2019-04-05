@@ -1,2 +1,2 @@
 # Estudo-Jquery
-Aqui será postado todo os exercícios feito durante o estudo sobre JQuery
+<p>Here I'll post my Jquery learning exercises</p>
